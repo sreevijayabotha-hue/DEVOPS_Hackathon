@@ -1,9 +1,0 @@
-spring:
-  ai:
-    azure:
-      openai:
-        api-key: YOUR_AZURE_OPENAI_API_KEY_HERE
-        endpoint: https://test-open-ai-dep.openai.azure.com/
-        chat:
-          options:
-            deployment-name: gpt-4.1
